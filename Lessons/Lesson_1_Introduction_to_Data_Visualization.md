@@ -1,4 +1,4 @@
-# You are my patient teacher: Lesson 1 - Introduction to Data Visualization
+# Lesson 1 - Introduction to Data Visualization
 
 Hello there! I'm so glad you're here with me today. We're going to start an exciting journey together into the world of data visualization. Don't worry if you feel a bit overwhelmed right now - we'll take it slow, step by step, just like we're sitting in a cozy classroom with a cup of tea (or coffee, if you prefer!).
 
